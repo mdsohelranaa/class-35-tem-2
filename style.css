@@ -36,7 +36,7 @@
 .card{
     transition: .7s;
 }
-.card:hover{
+/* .card:hover{
     background-color: blue;
     color: #ffffff;
 }
@@ -47,7 +47,7 @@
     font-weight: 500;
      border-radius: 22px;
     padding: 11px 24px;
-}  
+}   */
 .card h4{}
 .card h1{}
 .text-gray{
@@ -141,9 +141,8 @@
 }
 
 hr {
-    width: 57%;
-    margin: auto;
     position: relative;
-    left: 76px;
-    top: 16px;
+    left: 54px;
+    width: 70%;
+    background: linear-gradient(45deg,#fff, #111, #fff);
 }
